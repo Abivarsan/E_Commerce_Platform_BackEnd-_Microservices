@@ -2,5 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/services/api-gateway/src/main/java" charset="UTF-8" />
+<<<<<<< HEAD
+=======
+
+    <file url="file://$PROJECT_DIR$/services/delivery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/inventory-service/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/tracking-service/src/main/java" charset="UTF-8" />
+
+>>>>>>> 6e5a96f54926e397000df210cde936a85dd8ba74
   </component>
 </project>

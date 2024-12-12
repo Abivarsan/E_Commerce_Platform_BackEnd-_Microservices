@@ -1,8 +1,8 @@
 package com.ecommerce.orderservice.controller;
 
-import com.programmingcodez.orderservice.dto.ChargeRequest;
-import com.programmingcodez.orderservice.dto.ChargeResponse;
-import com.programmingcodez.orderservice.service.StripeService;
+import com.ecommerce.orderservice.dto.ChargeRequest;
+import com.ecommerce.orderservice.dto.ChargeResponse;
+import com.ecommerce.orderservice.service.StripeService;
 import com.stripe.exception.StripeException;
 import com.stripe.model.Charge;
 import org.springframework.beans.factory.annotation.Autowired;
